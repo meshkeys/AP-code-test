@@ -61,7 +61,7 @@ class App extends React.Component {
                 <span>Hello,</span> Benard
               </h1>
               <h6>
-                Welcome to you dashboard, kindly sort through the user base
+                Welcome to your dashboard, kindly sort through the user base
               </h6>
             </div>
 
